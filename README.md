@@ -1,2 +1,2 @@
 # mufid-resolusi
-Repository untuk menyimpan rencana wpu kedepannya
+Repository untuk menyimpan rencana ku kedepannya
